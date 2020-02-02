@@ -1,7 +1,3 @@
----
-typora-root-url: images
----
-
 # *Flutter* *Example*
 
 ## 	The Phases of the Moon
@@ -31,7 +27,7 @@ The screen components, local file reading and web gif reading mechanism was used
     
     ------
     
-    <img src="/moonphase.jpeg" style="zoom:30%;" />
+    <img src="images/moonphase.jpeg" style="zoom:25%;" />
 
 > Use this [link](https://flutter.dev/docs/development/ui) for more components... 
 
