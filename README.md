@@ -1,4 +1,4 @@
-# *Flutter* *Example*
+# *Phase of the Moon* in *Flutter*
 
 ## 	The Phases of the Moon
 
